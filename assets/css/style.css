@@ -419,9 +419,9 @@ section {
 }
 
 .filter-pizza {
-  width: calc(100% + 24px);
+  /*width: calc(100% + 24px);
   /* 100% width + 12px on both sides */
-  margin-left: -12px;
-  margin-right: -12px;
+ /* margin-left: -12px;
+  margin-right: -12px;*/
   background-color: white;
 }
